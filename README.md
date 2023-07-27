@@ -1,7 +1,5 @@
 # Welcome to Andrii's GitHub Repository! 👋
 
-<img src="https://github.com/andrii-alex/andrii-alex/assets/127661933/4820e00d-b22e-4a3d-bd40-0a24e41ea936" width="300" alt="IMG_2619">
-
 Hi, I'm Andrii (@andrii-alex), and I'm passionate about Full-Stack Development. Here's a little bit about me:
 
 - 👀 I’m interested in Full-Stack Development. I enjoy working on both the front-end and back-end of web applications.
