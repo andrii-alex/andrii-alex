@@ -13,20 +13,10 @@ Hi, I'm Andrii (@andrii-alex), and I'm passionate about Full-Stack Development. 
 Here are some of the technologies and tools I'm familiar with:
 
 - Front-end: HTML, CSS, JavaScript, ReactJS, Vue.js
-- Back-end: Node.js, Express.js, Django
-- Databases: MongoDB, MySQL, PostgreSQL
+- Back-end: Express Node.js, CodeIgniter PHP 
+- Databases: MySQL, MongoDB, PostgreSQL
 - Version Control: Git, GitHub
-- Other: REST APIs, GraphQL, Webpack, Docker
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. [Project 1](link_to_project1_repo) - Short description of the project.
-2. [Project 2](link_to_project2_repo) - Short description of the project.
-3. [Project 3](link_to_project3_repo) - Short description of the project.
-
-Feel free to explore these projects and provide feedback!
+- Other: REST APIs
 
 ## Contact
 
