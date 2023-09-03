@@ -12,12 +12,10 @@ Hi, I'm Andrii (@andrii-alex), and I'm passionate about Full-Stack Development. 
 
 Here are some of the technologies and tools I'm familiar with:
 
-- Front-end: HTML, CSS, JavaScript, ReactJS, Vue.js
-- Back-end: Express Node.js, CodeIgniter PHP
+- Front-end: HTML, CSS, JavaScript, Vue.js
+- Back-end: CodeIgniter PHP,Express Node.js,
 - Mobile: Flutter
-- Databases: MySQL, MongoDB, PostgreSQL
-- Version Control: Git, GitHub
-- Other: REST APIs
+- Databases: MySQL
 
 ## Contact
 
