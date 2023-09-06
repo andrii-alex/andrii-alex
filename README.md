@@ -1,6 +1,6 @@
 # Welcome to Andrii's GitHub Repository! 👋
 
-Hi, I'm Andrii (@andrii-alex), and I'm passionate about Full-Stack Development. Here's a little bit about me:
+Hi, I'm Andrii (@andrii-alex), and I'm passionate programmer. Here's a little bit about me:
 
 - 👀 I’m interested in Full-Stack Development. I enjoy working on both the front-end and back-end of web applications.
 
