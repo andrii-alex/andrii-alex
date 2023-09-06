@@ -12,10 +12,10 @@ Hi, I'm Andrii (@andrii-alex), and I'm passionate programmer. Here's a little bi
 
 Here are some of the technologies and tools I'm familiar with:
 
-- Front-end: Vue.js, HTML, CSS, JavaScript, Flutter
+- Front-end: Vue.js, HTML, CSS, JavaScript
 - Back-end: CodeIgniter PHP, Express Node.js
 - Mobile: Flutter
-- Databases: MySQL
+- Databases: MySQL, MongoDB, PostegreSQL
 
 ## Contact
 
