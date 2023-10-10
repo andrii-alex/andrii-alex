@@ -1,8 +1,8 @@
 # Welcome! 👋
 
 Hi, I'm Andrii!
-- 🌱 I create personalized digital solutions for various businesses, using Laravel and Vue.js. 
-- 👀 I have participated in diverse web projects, such as e-commerce platforms, presentation websites, blogs, and web applications, enhancing user experiences and streamlining processes.
+/n 🌱 I create personalized digital solutions for various businesses, using Laravel and Vue.js. 
+/n 👀 I have participated in diverse web projects, such as e-commerce platforms, presentation websites, blogs, and web applications, enhancing user experiences and streamlining processes.
 
 ## Technologies and Tools
 
@@ -13,7 +13,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 ## Contact
 
-You can reach me via email at andrii_alex@icloud.com. I'm always open to new opportunities, interesting discussions, and collaboration, so don't hesitate to drop me a message.
+You can reach me on LinkedIn at [andrii_alexandru](https://www.linkedin.com/in/andrii-alexandru/). I'm always open to new opportunities, interesting discussions, and collaboration, so don't hesitate to drop me a message.
 
 Let's connect and build something awesome together! 🚀
 
