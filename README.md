@@ -1,8 +1,8 @@
 # Welcome! 👋
 
 Hi, I'm Andrii!
-/n 🌱 I create personalized digital solutions for various businesses, using Laravel and Vue.js. 
-/n 👀 I have participated in diverse web projects, such as e-commerce platforms, presentation websites, blogs, and web applications, enhancing user experiences and streamlining processes.
+<br> 🌱 I create personalized digital solutions for various businesses, using Laravel and Vue.js. 
+<br> 👀 I have participated in diverse web projects, such as e-commerce platforms, presentation websites, blogs, and web applications, enhancing user experiences and streamlining processes.
 
 ## Technologies and Tools
 
