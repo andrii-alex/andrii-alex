@@ -1,8 +1,8 @@
-# Welcome! 👋
+# Welcome to my GitHub profile! 👋
 
-Hi, I'm Andrii!
-<br>
-<br> 🌱 I create personalized digital solutions for various businesses, using Laravel and Vue.js. 
+Hi, I'm @andrii-alexandru and I'm passionate about web development!
+<br> 
+<br> 👷‍♂️ I create personalized digital solutions for various businesses, using Laravel and Vue.js. 
 <br> 👀 I have participated in diverse web projects, such as e-commerce platforms, presentation websites, blogs, and web applications, enhancing user experiences and streamlining processes.
 
 ## Technologies and Tools
